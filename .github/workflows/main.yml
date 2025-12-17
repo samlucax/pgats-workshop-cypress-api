@@ -1,4 +1,4 @@
-name: Web E2E Tests
+name: API Tests
 
 on: 
   workflow_dispatch:
